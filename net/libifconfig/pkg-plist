@@ -1,0 +1,5 @@
+include/libifconfig.h
+include/libifconfig_sfp.h
+include/libifconfig_sfp_tables.h
+lib/libifconfig.so
+lib/libifconfig.so.2
